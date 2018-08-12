@@ -1,0 +1,12 @@
+--2018-08-12 13:23:37--  https://avatars1.githubusercontent.com/u/10301415?s=460
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving avatars1.githubusercontent.com (avatars1.githubusercontent.com)... 151.101.192.133, 151.101.128.133, 151.101.64.133, ...
+Connecting to avatars1.githubusercontent.com (avatars1.githubusercontent.com)|151.101.192.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40958 (40K) [image/jpeg]
+Saving to: '10301415?s=460'
+
+10301415?s=460                            0%[                                                                              ]       0  --.-KB/s               10301415?s=460                          100%[=============================================================================>]  40.00K  --.-KB/s    in 0.008s  
+
+2018-08-12 13:23:38 (4.90 MB/s) - '10301415?s=460' saved [40958/40958]
+
